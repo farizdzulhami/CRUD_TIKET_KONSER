@@ -14,6 +14,8 @@ $result = $conn->query($sql);
 <html>
 <head>
     <title>Data Pembelian Tiket</title>
+    <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <h2> Data Pembelian Tiket</h2>
